@@ -1,8 +1,16 @@
 # React + Vite
+# Project name: ALAB320H.3.1-RenderingArraysfromState"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This was created using REACT + Vite, CSS and JSX.
+- Data was loaded from an array of objects.
 
-Currently, two official plugins are available:
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MM-BYC/ALAB320H.3.1-RenderingArraysfromState.git
+git push -u origin main
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Run the process:
+    at the terminal, npm run dev
+    open the browser to navigate to url:port
