@@ -1,0 +1,15 @@
+.gridContainer {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(2, auto);
+  gap: 10px;
+  outline: 1px solid gray;
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.gridItem {
+  border-right: 1px solid gray;
+  text-align: center;
+}

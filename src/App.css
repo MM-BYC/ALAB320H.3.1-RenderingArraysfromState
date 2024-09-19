@@ -1,0 +1,19 @@
+/*starting off the body as display: flex  */
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  top: 0;
+  margin: 0;
+  position: sticky;
+  text-align: center;
+  background-color: darkblue;
+}
+
+.title {
+  text-align: center;
+}
