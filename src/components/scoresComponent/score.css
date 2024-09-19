@@ -6,10 +6,15 @@
   outline: 1px solid gray;
   width: 40%;
   margin: 0 auto;
+  padding: 1em;
   text-align: center;
 }
 
 .gridItem {
-  border-right: 1px solid gray;
   text-align: center;
+  font-size: 1.2em;
+}
+/* selects odd-numbered grid items and adds a right border.*/
+.gridItem:nth-child(odd) {
+  border-right: 1px solid gray;
 }

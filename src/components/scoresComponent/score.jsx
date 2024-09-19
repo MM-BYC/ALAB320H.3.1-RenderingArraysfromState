@@ -1,5 +1,7 @@
 import React from "react";
 import "./score.css";
+
+//argument prop is an object
 function Score({ score }) {
   return (
     <div className="gridContainer">

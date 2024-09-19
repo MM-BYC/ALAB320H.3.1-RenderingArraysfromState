@@ -1,6 +1,18 @@
 .member {
-  border: 2px solid lime;
+  border: 2px solid white;
   margin: 2rem;
   border-radius: 25px;
-  padding: 1rem;
+  padding: 1.5rem;
+}
+
+.learnerName {
+  color: blueviolet;
+  font-size: xx-large;
+}
+.bio {
+  font-size: 1.2em;
+}
+.learnerScores {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+  font-size: 1.6em;
 }
