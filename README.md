@@ -16,6 +16,8 @@ git push -u origin main
 
 Run the process:
     at the terminal, npm run dev
-    open the browser to navigate to url:port
+    open the browser to navigate to url:PORT
     
-    <img width="1300" alt="Screenshot 2024-09-19 at 3 31 03 AM" src="https://github.com/user-attachments/assets/f35507f0-ad08-4dfb-948e-a9e4bae5fddd">
+ 
+
+<img width="1299" alt="Screenshot 2024-09-19 at 3 34 16 AM" src="https://github.com/user-attachments/assets/0f053bfb-f671-40a7-9409-933e872a37d9">
