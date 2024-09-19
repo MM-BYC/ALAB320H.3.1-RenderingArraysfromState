@@ -2,7 +2,7 @@
 # Project name: ALAB320H.3.1-RenderingArraysfromState"
 
 - This was created using REACT + Vite, CSS and JSX.
-- Data was loaded from an array of objects.
+- Data was loaded using REACT useState() containing an array of objects  
 
 git init
 git add README.md
