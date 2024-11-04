@@ -1,6 +1,6 @@
 import React from "react";
 import Score from "../scoresComponent/score";
-import "./Learner.css";
+import "./learner.css";
 function Learner({ learner }) {
   return (
     <div className="member">
