@@ -5,9 +5,14 @@ import "./App.css";
 import learnersCollection from "./components/dataComponent/learnersInfo";
 // import the component
 import Learner from "./components/learnerComponent/learner";
+import Footer from "./components/footerComponent/footer";
+// import the style
+import "./components/footerComponent/footer.css";
 
 function App() {
   const [learnersData, setlearnersData] = useState(learnersCollection);
+  // year
+  const year = new Date().getFullYear();
 
   return (
     //<> is a fragment as top level element
@@ -18,6 +23,9 @@ function App() {
           <Learner key={index} learner={learner} />
         ))}
       </div>
+      <p>
+        <Footer year={ year} />
+      </p>
     </>
   );
 }
