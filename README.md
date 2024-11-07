@@ -14,5 +14,7 @@ Run the process:
     
  
 
-<img width="888" alt="Screenshot 2024-09-19 at 4 13 19 AM" src="https://github.com/user-attachments/assets/538d744c-d4fa-4567-8612-7a01cceb761f">
+### The Learner Score
+
+![The learner score](renderingArrayfromState.png)
 
